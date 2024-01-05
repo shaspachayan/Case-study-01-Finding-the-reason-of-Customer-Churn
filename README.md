@@ -5,6 +5,10 @@
 - [ ]  Study Databel’s customer data to understand why clients are leaving.
 - [ ]  From the insights, the marketing team will identify recommendations for designing strategies to retain Databel customer.
 
+
+![1](https://github.com/shaspachayan/Case-study-01-Finding-the-reason-of-Customer-Churn/assets/94305667/ed87aac7-627c-4677-9815-283bcf181c70)
+
+
 # **Summary of the Analysis:**
 
 Insights and trends that were discovered from the analysis:
@@ -48,6 +52,9 @@ This way, important insights were discovered by analyzing trends in churn rates 
 - Device protection services impact positively on customer satisfaction.
 - Higher monthly charges lead to higher churn rates.
 - International calls and extra data charges directly contribute to the overall charge.
+
+
+![2](https://github.com/shaspachayan/Case-study-01-Finding-the-reason-of-Customer-Churn/assets/94305667/ff06070d-86dc-4ae6-b748-a22294c8661f)
 
 
 # **Recommendations**
