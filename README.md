@@ -1,6 +1,6 @@
 # Case-study-01-Finding-the-reason-of-Customer-Churn
 
-# ****Business Task/****Goal:
+# Business Task/Goal:
 
 - [ ]  Study Databel’s customer data to understand why clients are leaving.
 - [ ]  From the insights, the marketing team will identify recommendations for designing strategies to retain Databel customer.
