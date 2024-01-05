@@ -1,6 +1,9 @@
 # Case-study-01-Finding-the-reason-of-Customer-Churn
 
-What is Customer Churn?
+
+![customer churn](https://github.com/shaspachayan/Case-study-01-Finding-the-reason-of-Customer-Churn/assets/94305667/f79ebc5e-f7d8-40ab-8cfa-aa3949fb7c67)
+
+# What is Customer Churn?
 Customer churn is defined as when customers or subscribers discontinue doing business with a firm or service.
 
 Customers in the telecom industry can choose from a variety of service providers and actively switch from one to the next. The telecommunications business has an annual churn rate of 15-25 percent in this highly competitive market.
