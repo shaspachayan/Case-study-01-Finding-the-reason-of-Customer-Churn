@@ -1,3 +1,6 @@
+
+A detailed report : https://shaspachayan.super.site/
+
 # Case-study-01-Finding-the-reason-of-Customer-Churn
 
 
