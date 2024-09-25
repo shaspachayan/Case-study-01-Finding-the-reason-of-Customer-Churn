@@ -1,5 +1,5 @@
 
-You can find a detailed report here: https://shaspachayan.super.site/
+You can find a detailed report here: https://shaspachayan.super.site/projects/customer-churn-analysis-power-bi
 
 # Case-study-01-Finding-the-reason-of-Customer-Churn
 
